@@ -69,12 +69,12 @@ body {
 }
 #pokemon-image{
   display: flex;
-  background-color: #2D292B;
-  width: 145px;
-  height: 140px;
+  background-color: #323132;
+  width: 150px;
+  height: 150px;
   align-items: center;
   justify-content: center;
-  padding: 10px 50px;
+  padding: 0px 40px;
 }
 .buttons{
   padding-top: 45px;
@@ -181,9 +181,9 @@ body {
 
 }
 #pokemon-name{
-  font-size: 20px;
-  font-family: 'PokemonGB', cursive;
-  margin-top: 30px;
+  font-size: 13px;
+  font-family: 'Press Start 2P';
+  margin-top: 40px;
   display: flex;
   justify-content: center;
   color: #2D292B;
