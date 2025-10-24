@@ -4,4 +4,4 @@ This is a pokedex webpage that allows to see the first 151 pokemon inside tehe p
 
 **PREVIEW**
 
-![preview]((https://github.com/juxnillo/Pokedex/blob/main/preview.png))
+![preview]((github.com/juxnillo/Pokedex/blob/main/preview.png))
