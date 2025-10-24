@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Pokedex</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="container">
+    <div id="PokeDex">
+        <div class="header">
+          <div class="btnblue"></div>
+          <div class="btnred"></div>
+          <div class="btnyellow"></div>
+          <div class="btngreen"></div>
+        </div>
+    <div class="pokedexbody">
+      <div class="pantalla">
+        <div id="pokename">
+            <img id="pokemon-image" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="pokemon">
+        </div> 
+      </div>
+      <div class="buttons">
+        <div class="btn1">
+          <div class="btncircle"></div>
+        </div>
+        <div class="btn2">
+          <div class="btnbar1"></div>
+          <div class="btnbar2"></div>
+          <div class="btnbargreen">
+            <h1 id="pokemon-name"></h1>
+          </div>
+        </div>
+        <div class="btn3">
+          <input type="button" id="next-btn" value="mas">
+          <input type="button" id="prev-btn" value="menos">
+          <div class="barvertical"></div>
+          <div class="barhorizontal"></div>
+        </div>
+      </div>
+    </div>   
+</div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
