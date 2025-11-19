@@ -5,4 +5,4 @@ i used the PokeAPI and typescript.
 
 **PREVIEW**
 
-![preview](https://raw.githubusercontent.com/juxnillo/Pokedex/refs/heads/main/preview.png)
+![preview](https://github.com/juxnillo/Pokedex/blob/main/src/preview.png)
